@@ -22,10 +22,12 @@
 
 ## 🛠 Tech Stack
 
-- **Frontend**: [React / JavaScript / Tailwind]
-- **Backend**: [Ruby on Rails / Node.js / Python]
-- **Database**: [PostgreSQL / MongoDB]
-- **DevOps**: [Docker / GitHub Actions]
+| Category     | Tools & Technologies                                                                                                                                                                                                                                                                                                                      |
+| :----------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)         |
+| **Backend**  | ![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)                  |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)                                                                                                                      |
+| **DevOps**   | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 
 or
 
@@ -40,6 +42,8 @@ or
 ![Ruby on Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
 
 ## 📂 Project Structure
 
@@ -70,11 +74,33 @@ repository-name/
 
 ### Setup
 
-1. Clone the repo: `git clone https://github.com/yourusername/project-name.git`
-2. Go to the project directory: `cd project-name`
-3. Install dependencies: `npm install` // or `bundle install`
-4. Set up environment variables: `cp .env.example .env` // Fill in your API keys
-5. Run the app: `npm start`
+1.  **Clone the repo:**
+    ```bash
+    git clone [https://github.com/srjoy5000/](https://github.com/srjoy5000/)[project-name].git
+    ```
+2.  **Go to the project directory:**
+    ```bash
+    cd [project-name]
+    ```
+3.  **Install dependencies:**
+    ```bash
+    npm install  # or bundle install
+    ```
+4.  **Set up environment variables:**
+    ```bash
+    cp .env.example .env  # Fill in your API keys
+    ```
+5.  **Run the app:**
+    ```bash
+    npm start  # or bin/dev
+    ```
+
+## 🧪 Testing (optional)
+
+Testing is a core part of this project's stability.
+
+- **Unit Tests:** `npm test` (or `bundle exec rspec`)
+- **Coverage:** Current test coverage is [X]%
 
 ## 🧠 Reflections & Challenges
 
@@ -92,6 +118,9 @@ repository-name/
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
 
-Developed by [Your Name] – [LinkedIn](link) | [Twitter/X](link)
+---
+
+**Developed by [Your Name]**
+[GitHub](https://www.google.com/search?q=https://github.com/srjoy5000) | [LinkedIn](https://www.google.com/search?q=link) | [Twitter/X](https://www.google.com/search?q=link)
