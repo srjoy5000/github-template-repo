@@ -36,7 +36,6 @@ This project is licensed under the MIT License.
 
 ---
 
-**Developed by srjoy5000**
-[GitHub](https://github.com/srjoy5000)
+**Developed by [srjoy5000](https://github.com/srjoy5000)**
 
 
