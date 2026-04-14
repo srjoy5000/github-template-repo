@@ -96,7 +96,7 @@ Testing is a core part of this project's stability.
 - **Unit Tests:** `npm test` (or `bundle exec rspec`)
 - **Coverage:** Current test coverage is [X]%
 
-## 🧠 Reflections & Challenges
+## 🧠 Reflections & Challenges (optional)
 
 ### Why I built this:
 
@@ -109,6 +109,24 @@ Testing is a core part of this project's stability.
 ### How I overcame it:
 
 [Explain your thought process and the final solution. This section is what demonstrates your seniority level to recruiters.]
+
+## 🗺️ Roadmap (optional)
+
+- [ ] **Phase 1**: Initial MVP with core CRUD functionality.
+- [ ] **Phase 2**: Integration with [specific API or Service].
+- [ ] **Phase 3**: Mobile responsiveness and UI polish.
+- [ ] **Phase 4**: Advanced features like real-time notifications or data visualization.
+- [ ] **Phase 5**: Unit and Integration test coverage above 80%.
+
+## 🤝 Contributing (optional)
+
+Contributions help make this project better for everyone. Any contributions you make are greatly appreciated.
+Fork the project
+Create your feature branch (git checkout -b feature/YourFeature)
+Commit your changes (git commit -m 'Add YourFeature')
+Push to the branch (git push origin feature/YourFeature)
+Open a Pull Request
+For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📄 License
 
