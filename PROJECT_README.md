@@ -120,8 +120,6 @@ Testing is a core part of this project's stability.
 
 ## 🤝 Contributing (optional)
 
-## Contributing
-
 Contributions help make this project better for everyone. Any contributions you make are **greatly appreciated**.
 
 1. **Fork** the project
