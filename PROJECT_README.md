@@ -120,13 +120,17 @@ Testing is a core part of this project's stability.
 
 ## 🤝 Contributing (optional)
 
-Contributions help make this project better for everyone. Any contributions you make are greatly appreciated.
-Fork the project
-Create your feature branch (git checkout -b feature/YourFeature)
-Commit your changes (git commit -m 'Add YourFeature')
-Push to the branch (git push origin feature/YourFeature)
-Open a Pull Request
-For major changes, please open an issue first to discuss what you would like to change.
+## Contributing
+
+Contributions help make this project better for everyone. Any contributions you make are **greatly appreciated**.
+
+1. **Fork** the project
+2. Create your **feature branch** (`git checkout -b feature/YourFeature`)
+3. **Commit** your changes (`git commit -m 'Add YourFeature'`)
+4. **Push** to the branch (`git push origin feature/YourFeature`)
+5. Open a **Pull Request**
+
+_For major changes, please open an issue first to discuss what you would like to change._
 
 ## 📄 License
 
